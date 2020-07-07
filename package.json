@@ -1,11 +1,11 @@
 {
-  "name": "react-native-tts",
-  "version": "3.2.0",
+  "name": "react-native-xy-tts",
+  "version": "1.0.0",
   "description": "React Native Text-To-Speech module for Android and iOS",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ak1394/react-native-tts.git"
+    "url": "git+https://github.com/yanglingnan/react-native-xy-tts.git"
   },
   "keywords": [
     "tts",
@@ -16,11 +16,5 @@
     "react-native",
     "android",
     "ios"
-  ],
-  "author": "Anton Krasovsky",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ak1394/react-native-tts/issues"
-  },
-  "homepage": "https://github.com/ak1394/react-native-tts#readme"
+  ]
 }
